@@ -7,6 +7,10 @@
 
 # testing
 /coverage
+/reports
+/.nyc_output
+/cypress/screenshots
+/cypress/videos
 
 # production
 /build
@@ -21,3 +25,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.eslintcache
